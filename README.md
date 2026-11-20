@@ -11,6 +11,13 @@
   #https://github.com/luau/UniversalSynSaveInstance
 </p>
 
+# UPDATE 11/20/2026 
+
+> it working now 
+<p align="center">
+  <img height="300px" style="margin: 0; padding: 0" src="simplylovely.png" />
+</p>
+
 # Loadstring
 
 ```lua
