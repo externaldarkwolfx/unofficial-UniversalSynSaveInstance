@@ -4,6 +4,12 @@
   <img height="300px" style="margin: 0; padding: 0" src=".moonwave\static\logo.png" />
 </p>
 
+> [SECOND !IMPORTANT]
+> Between November 19 and November 20, 2026, the official GitHub repository for UniversalSynSaveInstance was removed/taken down. However, I have a backup of the files I downloaded yesterday, so this is an unofficial repository. Please use these files at your own risk and verify everything carefully before running or modifying anything.
+<p align="center">
+  <img height="300px" style="margin: 0; padding: 0" src=".moonwave\static\logo.png" />
+</p>
+
 # Loadstring
 
 ```lua
