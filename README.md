@@ -23,6 +23,18 @@ local Options = {} -- Documentation here https://luau.github.io/UniversalSynSave
 synsaveinstance(Options)
 ```
 
+# Working from this repo Loadstring VER 11/20/2026
+
+```lua
+local Params = {
+ RepoURL = "https://raw.githubusercontent.com/externaldarkwolfx/unofficial-UniversalSynSaveInstance/main/",
+ SSI = "saveinstance",
+}
+local synsaveinstance = loadstring(game:HttpGet(Params.RepoURL .. Params.SSI .. ".luau", true), Params.SSI)()
+local Options = {} -- Documentation here https://luau.github.io/UniversalSynSaveInstance/api/UniversalSynSaveInstance
+synsaveinstance(Options)
+```
+
 # Universal Syn Save Instance
 
 Or shortly USSI, a project aimed at resurrecting saveinstance function from Synapse X.<br />
