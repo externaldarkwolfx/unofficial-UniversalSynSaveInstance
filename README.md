@@ -4,9 +4,11 @@
   <img height="300px" style="margin: 0; padding: 0" src="logo.png" />
 </p>
 
-> [! ALSO IMPORTANT]
-> Between November 19 and November 20, 2026, the official GitHub repository for UniversalSynSaveInstance was removed/taken down. However, I have a backup of the files I downloaded yesterday, so this is an unofficial
-> repository. Please use these files at your own risk and verify everything carefully before running or modifying anything.
+> [!IMPORTANT]
+> Between **November 19 and November 20, 2026**, the official GitHub repository for **UniversalSynSaveInstance** was removed/taken down. This repository is an **unofficial backup** created from files downloaded before the removal.
+>
+> - **No Updates:** This repository will **not** be maintained or updated.
+> - **Temporary Availability:** Once an official developer of UniversalSynSaveInstance creates a new repository, this backup repository will be set to **private**.
 <p align="center">
   #https://github.com/luau/UniversalSynSaveInstance
 </p>
